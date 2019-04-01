@@ -1,0 +1,18 @@
+missing module named resource - imported by posix, E:\eatsnake\eluosifangkuai.py
+missing module named posix - imported by os, E:\eatsnake\eluosifangkuai.py
+missing module named _posixsubprocess - imported by subprocess, E:\eatsnake\eluosifangkuai.py
+missing module named org - imported by pickle, E:\eatsnake\eluosifangkuai.py
+missing module named readline - imported by cmd, code, pdb, E:\eatsnake\eluosifangkuai.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\eatsnake\eluosifangkuai.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\eatsnake\eluosifangkuai.py
+missing module named _winreg - imported by platform, E:\eatsnake\eluosifangkuai.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\eatsnake\eluosifangkuai.py
+missing module named 'java.lang' - imported by platform, E:\eatsnake\eluosifangkuai.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\eatsnake\eluosifangkuai.py
+missing module named termios - imported by tty, E:\eatsnake\eluosifangkuai.py, getpass
+missing module named grp - imported by shutil, tarfile, E:\eatsnake\eluosifangkuai.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, E:\eatsnake\eluosifangkuai.py, netrc, getpass
+missing module named 'org.python' - imported by copy, E:\eatsnake\eluosifangkuai.py, xml.sax
+missing module named 'pygame.locals' - imported by E:\eatsnake\eluosifangkuai.py
+missing module named pygame - imported by E:\eatsnake\eluosifangkuai.py
